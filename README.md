@@ -64,8 +64,8 @@ csv file : 2020.csv : ( train + test )
 ### ✅ Best Model & Score
 방법2로 전처리한 Random Forest </br>
   * Accuracy : 0.8019
-  * F1socre : 0.8023
-  * AUCscore : 0.7218
+  * F1-score : 0.8023
+  * AUC-score : 0.7218
 
 # 참고 논문
 -	김진옥, “현재 흡연자와 비흡연자의 혈중지질 수준 비교”, 연세대 보건대학원, 2002.12, p18~
