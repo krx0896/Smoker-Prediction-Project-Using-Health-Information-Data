@@ -57,6 +57,8 @@ csv file : 2020.csv : ( train + test )
     - Recall 또는 Precision에 속하는 사람들은 모델이 잘 못 판단했을 수도 있지만 흡연을 하지만 건강 상태가 좋거나 흡연을 하지 않지만 건강하지 않은 것으로 
   - Random Forest의 Feature Importances로 결측치에서 제거하지 않은 변수가 실제로 중요한 변수인지 본 결과 중요했음
 
+## 프로젝트 프레임워크
+
 <img src="./image/[참고자료]산업인공지능 개인프로젝트 프레임워크.jpg">
 
 ### ✅ Best Model & Score
