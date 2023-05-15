@@ -23,6 +23,10 @@ csv file : 2020.csv : ( train + test )
   * 타겟 변수의 클래스 불균형 : 흡연 유무에 대한 타겟 데이터의 비율 -> 59:31:20
   * 전체 데이터의 갯수 중 60% 이상의 결측치를 가지는 변수가 6개 존재함
 
+## 프로젝트 프레임워크
+
+<img src="./image/[참고자료]산업인공지능 개인프로젝트 프레임워크.jpg">
+
 # Contents
 - Preliminaries
 - Load the dataset
@@ -56,10 +60,6 @@ csv file : 2020.csv : ( train + test )
   - Confusion matrix로 모델 성능 평가
     - Recall 또는 Precision에 속하는 사람들은 모델이 잘 못 판단했을 수도 있지만 흡연을 하지만 건강 상태가 좋거나 흡연을 하지 않지만 건강하지 않은 것으로 
   - Random Forest의 Feature Importances로 결측치에서 제거하지 않은 변수가 실제로 중요한 변수인지 본 결과 중요했음
-
-## 프로젝트 프레임워크
-
-<img src="./image/[참고자료]산업인공지능 개인프로젝트 프레임워크.jpg">
 
 ### ✅ Best Model & Score
 방법2로 전처리한 Random Forest </br>
